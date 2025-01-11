@@ -27,4 +27,22 @@ A YOLOv8-based AI solution for detecting road signs and traffic signals in real-
 - Google Colab
 
 ## Results
+- Example detections are saved as videos with annotated bounding boxes.
+- Performance metrics (confusion matrix, results.csv) are generated after training.
+
+## Tested Video Result 
 Link to the tested video output : https://drive.google.com/file/d/18RE01fxlee7mfv4yS-3NhS4Zetf3BJVE/view?usp=sharing
+
+## Requirements
+- Google Colab (with GPU enabled for faster training).
+- A Roboflow account for dataset management (optional).
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+- [YOLOv8](https://ultralytics.com/yolov8)
+- [Roboflow](https://roboflow.com/)
+- Google Colab
+- 
+
