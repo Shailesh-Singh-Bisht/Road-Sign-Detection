@@ -44,5 +44,5 @@ This project is licensed under the [MIT License](LICENSE).
 - [YOLOv8](https://ultralytics.com/yolov8)
 - [Roboflow](https://roboflow.com/)
 - Google Colab
-- 
+
 
